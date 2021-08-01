@@ -41,5 +41,7 @@ Find me on Github @ [cooperrc1](http://github.com/cooperrc1)
  ## License
 This project is open source and available under the Mozilla
 
+Video of the project: https://drive.google.com/file/d/1PXsXII2lm1JW7x1VfFaf6etcB4fixl5x/view
+
 
     
